@@ -826,6 +826,7 @@ nav {
     height: 22px;
     font-size: 10px;
     margin-top: 6px;
+    line-height: 20px;
   }
   .subheader_btn:hover {
     background-image: -webkit-gradient(linear, left bottom, left top, from(#1eacc7), to(#4ce2ff));
@@ -840,7 +841,7 @@ nav {
   }
   .promo_header {
     font-size: 30px;
-    paddong: 0 24px;
+    padding: 0 24px;
     line-height: 35px;
   }
   .promo_subheader {
